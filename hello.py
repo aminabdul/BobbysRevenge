@@ -5,7 +5,7 @@ import os
 #setup
 pygame.init()
 gamedisplay = pygame.display.set_mode((1024, 768))
-pygame.display.set_caption("Amin's first game!")
+pygame.display.set_caption("Bobby's Revenge")
 clock = pygame.time.Clock()
 WHITE=(135, 206, 235)
 gamedisplay.fill(WHITE)
